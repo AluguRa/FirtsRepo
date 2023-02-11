@@ -2,6 +2,6 @@ Pasta
 
 Noodles
 Chicken fry
+Pizza
 
-
-Thsnk you
+Thank you
